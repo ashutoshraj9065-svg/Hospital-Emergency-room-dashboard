@@ -4,7 +4,7 @@
 This project presents an interactive Excel dashboard for analyzing Hospital Emergency Room performance.
 
 ## Dashboard Preview
-! [Dashboard](./Hospital%20Dashboard%20Final .jpg)
+! [Dashboard](./Hospital%20Dashboard%20Final%20 .jpg)
 
 
 ## KPIs
